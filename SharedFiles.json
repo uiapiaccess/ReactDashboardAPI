@@ -1,0 +1,26 @@
+[
+    {
+        "portlet-title" : "Shared Files",
+        "shared-files-data" : [
+            {
+                "name" : "aaa.txt",
+                "role" : "aaron",
+                "date" : "23, June 2021"
+            },
+            {
+                "name" : "bbb.txt",
+                "role" : "brad",
+                "date" : "23, June 2021"
+            },
+            {
+                "name" : "ccc.txt",
+                "role" : "polly",
+                "date" : "23, June 2021"
+            },
+            {
+                "name" : "mark",
+                "role" : "co-worker"
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        
+            "portletTitle" : "Weekly Sales",
+            "cardContent" : "$47K",
+            "cardChipContent" : "+3.5%",
+            "chart" : {
+                "chartType" : "bar",
+                "chartWidth" : 200,
+                "seriesData" : [{
+                    "data": [21, 22, 10, 28]
+                }],
+                "toolBarShow" : false,
+                "chartHeight" : 150,
+                "plotOptions" : {
+                    "bar": {
+                      "columnWidth": "20%",
+                      "distributed": true
+                    }
+                },
+                "dataLabelsEnabled" : false,
+                "legendShow" : false,
+                "xAxisShow" : false,
+                "yAxisShow" : false
+            }
+        
+    },
+    {
+        
+            "portletTitle" : "Total Order",
+            "cardContent" : "58.4K",
+            "cardChipContent" : "13.6%",
+            "chart" : {
+                "chartType" : "line",
+                "chartWidth" : 200,
+                "seriesData" : [{
+                    "data": [10, 41, 35, 51, 49, 62, 69, 91, 148]
+                }],
+                "toolBarShow" : false,
+                "chartHeight" : 150,
+                "plotOptions" : {
+                    "bar": {
+                      "columnWidth": "20%",
+                      "distributed": true
+                    }
+                },
+                "dataLabelsEnabled" : false,
+                "legendShow" : false,
+                "xAxisShow" : false,
+                "yAxisShow" : false
+            }
+    } 
+]

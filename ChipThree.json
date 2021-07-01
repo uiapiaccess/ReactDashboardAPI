@@ -1,0 +1,10 @@
+[
+    {
+        "portletTitle" : "Weather",
+        "cardSubHeader" : "New York City",
+        "cardDescription" : "Sunny",
+        "cardSubDescription" : "Precipitation: 50%",
+        "cardNumberContent" : "31°",
+        "cardNumberSubContent" : "32° / 25°"
+    }
+]

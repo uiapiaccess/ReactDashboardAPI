@@ -1,0 +1,29 @@
+[
+    {
+        "largeItemScreenSize" : 6,
+        "largeItemContentSize" : 12,
+        "portletTitle" : "Top Products",
+        "cardContent" : "$47K",
+        "cardChipContent" : "+3.5%",
+        "chart" : {
+            "chartType" : "bar",
+            "chartWidth" : 500,
+            "seriesData" : [{
+                "data": [21, 22, 10, 28]
+            }],
+            "toolBarShow" : false,
+            "chartHeight" : 150,
+            "plotOptions" : {
+                "bar": {
+                  "columnWidth": "20%",
+                  "distributed": true
+                }
+            },
+            "dataLabelsEnabled" : false,
+            "legendShow" : false,
+            "xAxisShow" : true,
+            "yAxisShow" : true
+        }
+    
+    }
+]
