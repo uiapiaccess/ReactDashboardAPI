@@ -10,17 +10,5 @@
             "chartType" : "donut",
             "seriesData" : [10, 41, 35]
         }
-    },
-    {
-        "portletTitle" : "Replica Share",
-        "legendContent" : {
-            "legendOne" : "Samsung",
-            "legendTwo" : "Huawei",
-            "lengendThree" : "Apple"
-        },
-        "chart" : {
-            "chartType" : "donut",
-            "seriesData" : [10, 41, 35]
-        }
     }
 ]
