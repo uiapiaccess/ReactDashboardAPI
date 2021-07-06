@@ -8,7 +8,21 @@
         },
         "chart" : {
             "chartType" : "donut",
-            "seriesData" : [10, 41, 35]
+            "chartWidth" : 200,
+            "seriesData" : [10, 41, 35],
+            "offSetX" : 50,
+            "toolBarShow" : false,
+            "chartHeight" : 150,
+            "plotOptions" : {
+                "bar": {
+                    "columnWidth": "10",
+                    "distributed": true
+                }
+            },
+            "dataLabelsEnabled" : false,
+            "legendShow" : false,
+            "xAxisShow" : false,
+            "yAxisShow" : false
         }
     }
 ]
