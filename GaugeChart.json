@@ -1,9 +1,25 @@
 [
     {
-        "portletTitle" : "Bandwidth Used",
+        "portletTitle" : "Total Sales",
+        "cardContent" : "58.4K",
+        "cardChipContent" : "13.6%",
         "chart" : {
             "chartType" : "radialBar",
-            "seriesData" : [70]
+            "chartWidth" : 400,
+            "seriesData" : [70],
+            "toolBarShow" : false,
+            "chartHeight" : 150,
+            "plotOptions" : {
+                "radialBar": {
+                  "hollow": {
+                    "size": "70"
+                    }
+                }
+            },
+            "dataLabelsEnabled" : false,
+            "legendShow" : false,
+            "xAxisShow" : true,
+            "yAxisShow" : true
         }
     }
 ]
