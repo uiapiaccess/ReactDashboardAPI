@@ -2,7 +2,7 @@
     "data" : {
         "PortletWithListRectangularIconTopOneData" : {
             "id" : 25,
-            "portletTitle" : "Tasks",
+            "portletTitle" : "Past Meetings",
             "listData" : [
                 {
                     "status" : "Approved",
