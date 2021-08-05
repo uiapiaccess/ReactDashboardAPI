@@ -1,0 +1,14 @@
+{
+    "data" : {
+        "portletWithGaugeChartOneData" : {
+            "id" : 12,
+            "portletTitle" : "Bandwidth Used",
+            "chart" : {
+                "chartType" : "radialBar",
+                "data" : [70,30],
+                "colors" : ["blue", "green"],
+                "labels" : ["used", "empty"]
+            }
+        }
+    }
+}

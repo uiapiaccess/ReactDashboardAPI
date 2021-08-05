@@ -1,0 +1,104 @@
+{
+    "data" : {
+        "chipWithColumnChartOneData" : {
+            "id" : "1",
+            "portletTitle" : "Weekly Sales",
+            "cardContent" : "$47K",
+            "cardChipContent" : "+3.5%",
+            "chart" : {
+                "chartType" : "bar",
+                "data": [
+                    {"year": 1980, "efficiency": 24.3, "sales": 8949000},
+                    {"year": 1985, "efficiency": 27.6, "sales": 10979000},
+                    {"year": 1990, "efficiency": 28, "sales": 9303000},
+                    {"year": 1991, "efficiency": 28.4, "sales": 8185000},
+                    {"year": 1992, "efficiency": 27.9, "sales": 8213000},
+                    {"year": 1993, "efficiency": 28.4, "sales": 8518000},
+                    {"year": 1994, "efficiency": 28.3, "sales": 8991000},
+                    {"year": 1995, "efficiency": 28.6, "sales": 8620000},
+                    {"year": 1996, "efficiency": 28.5, "sales": 8479000}
+                ]
+            }
+        },
+        "chipWithColumnChartTwoData" : {
+            "id" : "2",
+            "portletTitle" : "Total Order",
+            "cardContent" : "$58.4K",
+            "cardChipContent" : "+13.6%",
+            "chart" : {
+                "chartType" : "line",
+                "data": [10, 41, 35, 51, 70]  
+            }
+        },
+        "chipWithDonutChartOneData" : {
+            "id" : "3",
+            "portletTitle" : "Market Share",
+            "chart" : {
+                "labelData" : ["Samsung","Huawei","Apple", "BlackBerry", "Android"],
+                "chartType" : "donut",
+                "data" : [10, 41, 35, 20, 10],
+                "colors" : ["red", "green", "blue", "red", "pink"]
+            }
+        },
+        "chipWithWeatherOneData" : {
+            "id" : "4",
+            "portletTitle" : "Weather",
+            "cardSubHeader" : "New York City",
+            "cardDescription" : "Sunny",
+            "cardSubDescription" : "Precipitation: 50%",
+            "cardNumberContent" : "31°",
+            "cardNumberSubContent" : "32° / 25°"
+        },
+        "plainChipOneData" : {
+            "id" : 17,
+            "portletTitle" : "Average time spend on meeting",
+            "content" : "50",
+            "subContent" : "hours"
+        },
+        "plainChipTwoData" : {
+            "id" : 18,
+            "portletTitle" : "Task created / Completed",
+            "content" : "78",
+            "subContent" : "%"
+        },
+        "plainChipThreeData" : {
+            "id" : 19,
+            "portletTitle" : "Effective meetings",
+            "content" : "45",
+            "subContent" : "%"
+        },
+        "chipWithColorOneData" : {
+            "id" : 20,
+            "chipTitle" : "Upcoming Meetings for next week",
+            "chipNumber" : "06",
+            "chipSubContent" : "This week"
+        },
+        "chipWithColorTwoData" : {
+            "id" : 21,
+            "chipTitle" : "Follow up Meeting",
+            "chipNumber" : "10",
+            "chipSubContent" : "This week"
+        },
+        "chipWithColorThreeData" : {
+            "id" : 22,
+            "chipTitle" : "Pending Task",
+            "chipNumber" : "10",
+            "chipSubContent" : "This week"
+        },
+        "chipWithColorFourData" : {
+            "id" : 28,
+            "chipTitle" : "Completed Task",
+            "chipNumber" : "5",
+            "chipSubContent" : "This week"
+        },
+        "chipWithWeatherTwoData" : {
+            "id" : "4",
+            "portletTitle" : "Weather",
+            "cardSubHeader" : "New York City",
+            "cardDescription" : "Sunny",
+            "cardSubDescription" : "Precipitation: 50%",
+            "cardNumberContent" : "31°",
+            "cardNumberSubContent" : "32° / 25°"
+        }
+    }
+}
