@@ -69,7 +69,7 @@
         },
         "chipWithColorOneData" : {
             "id" : 20,
-            "chipTitle" : "Upcoming Meetings for next week",
+            "chipTitle" : "Upcoming Meetings",
             "chipNumber" : "06",
             "chipSubContent" : "This week"
         },
