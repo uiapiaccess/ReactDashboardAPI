@@ -4,8 +4,11 @@
             "id" : 5,
             "portletTitle" : "Average time spend on meeting",
             "chart" : {
-                "chartType" : "line",                
-                "data": [10, 41, 35, 70, 60]  
+                "chartType" : "spline",                
+                "data": [
+                    ["Lenovo", 30, 200, 100, 400, 150, 250, 400, 110]
+                ],
+                "colorPattern" : ["blue"] 
             }
         }
     }
