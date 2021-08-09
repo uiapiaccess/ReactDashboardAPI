@@ -4,10 +4,12 @@
             "id" : 23,
             "portletTitle" : "Meeting overview This month",
             "chart" : {
-                "chartType" : "radialBar",
-                "data" : [115, 52, 20],
-                "colors" : ["#1ab7ea", "#0084ff", "#39539E"],
-                "labels" : ["Project Meeting", "Follow up Meeting", "Board Meeting"]
+                "chartType" : "donut",
+                "data" : [
+                    ["data1", 20],
+                    ["data2", 10]
+                ],
+                "colorPattern" : ["red","yellow"]
             }
         
         }
