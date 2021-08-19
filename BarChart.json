@@ -8,10 +8,11 @@
             "chart" : {
                 "chartType" : "bar",
                 "data": [
-                    ["Jikan", 10, 30, 50, 60, 100]
+                    ["Jikan", 10, 30, 50, 60, 100],
+                    ["Agora", 20, 40, 10, 60, 90]
                 ],
                 "drillDownData": {
-                    "Top meetings" : {
+                    "Jikan" : {
                         "10" : {
                             "columnData" : [
                                 { "field": "id", "headerName": "ID", "width": 120 },
