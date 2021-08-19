@@ -2,13 +2,13 @@
     "data" : {
         "portletWithGaugeChartOneData" : {
             "id" : "12",
-            "portletTitle" : "Bandwidth Used",
+            "portletTitle" : "Cloud storage Used",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
                 "chartType" : "gauge",
                 "data": [
-                    ["data", 97.4]
+                    ["SVN", 60.4]
                 ],
                 "drillDownData": {
                     "data" : {
