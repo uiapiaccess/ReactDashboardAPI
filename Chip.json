@@ -2,9 +2,9 @@
     "data" : {
         "chipWithColumnChartOneData" : {
             "id" : "1",
-            "portletTitle" : "Meeting count",
-            "cardContent" : "$47K",
-            "cardChipContent" : "+3.5%",
+            "portletTitle" : "Agora Meeting count",
+            "cardContent" : "200",
+            "cardChipContent" : "+3.5% usage",
             "chart" : {
                 "chartType" : "bar",
                 "data": [
@@ -34,9 +34,9 @@
         },
         "chipWithColumnChartTwoData" : {
             "id" : "2",
-            "portletTitle" : "Total Order",
-            "cardContent" : "$58.4K",
-            "cardChipContent" : "+13.6%",
+            "portletTitle" : "nCoup Meeting count",
+            "cardContent" : "500",
+            "cardChipContent" : "+13.6% usage",
             "chart" : {
                 "chartType" : "spline",
                 "data": [
@@ -66,14 +66,14 @@
         },
         "chipWithDonutChartOneData" : {
             "id" : "3",
-            "portletTitle" : "Market Share",
+            "portletTitle" : "Highly used meeting application",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
                 "chartType" : "pie",
                 "data": [
-                    ["data1", 30],
-                    ["data2", 120]
+                    ["Agora", 30],
+                    ["nCoup", 120]
                 ],
                 "colorPattern" : ["blue", "red"]
             },
@@ -143,7 +143,7 @@
             "cardNumberContent" : "",
             "cardNumberSubContent" : "",
             "content" : "50",
-            "subContent" : "hours",
+            "subContent" : "hours per week",
             "chipNumber" : "",
             "chipSubContent" : "",
             "highDivContentOne" : "",
@@ -310,8 +310,8 @@
             "cardNumberSubContent" : "",
             "content" : "",
             "subContent" : "",
-            "chipNumber" : "",
-            "chipSubContent" : "",
+            "chipNumber" : "30",
+            "chipSubContent" : "This week",
             "highDivContentOne" : "",
             "storageUsed" : "",
             "totalStorage" : "",
