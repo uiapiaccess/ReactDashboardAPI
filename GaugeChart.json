@@ -11,8 +11,8 @@
                     ["SVN", 60.4]
                 ],
                 "drillDownData": {
-                    "data" : {
-                        "97.4" : {
+                    "SVN" : {
+                        "60.4" : {
                             "columnData" : [
                                 { "field": "id", "headerName": "ID", "width": 120 },
                                 {
