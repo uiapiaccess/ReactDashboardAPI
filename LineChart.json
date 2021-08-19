@@ -8,7 +8,7 @@
             "chart" : {
                 "chartType" : "spline",
                 "data": [
-                    ["Lenovo", 30, 200, 100, 400]
+                    ["Lenovo", 30, 200, 100, 150, 250, 400]
                 ],
                 "drillDownData": {
                     "Lenovo" : {
