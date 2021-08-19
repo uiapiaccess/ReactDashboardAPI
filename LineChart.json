@@ -2,16 +2,17 @@
     "data" : {
         "portletWithLineChartOneData" : {
             "id" : "5",
-            "portletTitle" : "Average time spend on meeting",
+            "portletTitle" : "Product sales",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
                 "chartType" : "spline",
                 "data": [
-                    ["Lenovo", 30, 200, 100, 150, 250, 400]
+                    ["Pheme", 30, 200, 100, 150, 250, 400],
+                    ["Jikan", 10, 400, 200, 250, 150, 500]
                 ],
                 "drillDownData": {
-                    "Lenovo" : {
+                    "Pheme" : {
                         "30" : {
                             "columnData" : [
                                 { "field": "id", "headerName": "ID", "width": 120 },
@@ -79,7 +80,7 @@
                         }
                     }
                 },
-                "colorPattern" : ["blue"]
+                "colorPattern" : ["blue","red"]
             },
             "cardSubHeader" : "",
             "cardDescription" : "",
