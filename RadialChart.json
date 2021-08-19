@@ -8,8 +8,8 @@
             "chart" : {
                 "chartType" : "donut",
                 "data": [
-                    ["data1", 20],
-                    ["data2", 10]
+                    ["Agora", 20],
+                    ["nCoup", 10]
                 ],
                 "drillDownData": {
                     "data1" : {
