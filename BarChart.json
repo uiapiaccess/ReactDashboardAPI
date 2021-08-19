@@ -2,13 +2,13 @@
     "data" : {
         "portletWithBarChartOneData" : {
             "id" : "13",
-            "portletTitle" : "Top Meetings",
+            "portletTitle" : "Product sales",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
                 "chartType" : "bar",
                 "data": [
-                    ["Top meetings", 10, 30, 50, 60, 100]
+                    ["Jikan", 10, 30, 50, 60, 100]
                 ],
                 "drillDownData": {
                     "Top meetings" : {
