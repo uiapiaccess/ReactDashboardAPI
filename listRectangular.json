@@ -1,0 +1,68 @@
+{
+    "data" : {
+        "portletWithListRectangularIconOneData" : {
+            "id" : "24",
+            "portletTitle" : "Tasks",
+            "cardContent" : "",
+            "cardChipContent" : "",
+            "chart" : {
+                "chartType" : "",
+                "data": [],
+                "colorPattern" : []
+            },
+            "cardSubHeader" : "",
+            "cardDescription" : "",
+            "cardSubDescription" : "",
+            "cardNumberContent" : "",
+            "cardNumberSubContent" : "",
+            "content" : "",
+            "subContent" : "",
+            "chipNumber" : "",
+            "chipSubContent" : "",
+            "highDivContentOne" : "",
+            "storageUsed" : "",
+            "totalStorage" : "",
+            "mainContentH5" : "",
+            "subContentP" : "",
+            "subContentPcontinuation" : "", 
+            "finalContent" : "",
+            "listData" : [                {
+                "abstractStatus" : "Due",
+                "date" : "July 12, 2021",
+                "name" : "Meeting Notes",
+                "assigned" : "xxx",
+                "status" : "OVERDUE"
+            },
+            {
+                "abstractStatus" : "Due",
+                "date" : "July 10, 2021",
+                "name" : "GUI Notes",
+                "assigned" : "xxx",
+                "status" : "OVERDUE"
+            },
+            {
+                "abstractStatus" : "Going",
+                "date" : "Jul 14, 2021",
+                "name" : "Back end notes",
+                "assigned" : "xxx",
+                "status" : "ONGOING"
+            },
+            {
+                "abstractStatus" : "Comp",
+                "date" : "Aug 14, 2021",
+                "name" : "GUI team",
+                "assigned" : "xxx",
+                "status" : "COMPLETED"
+            },
+            {
+                "abstractStatus" : "Comp",
+                "date" : "Sept 14, 2021",
+                "name" : "Morning meeting",
+                "assigned" : "xxx",
+                "status" : "COMPLETED"
+            }],
+            "columnData" : [],
+            "rowData" : []
+        }
+    }
+}

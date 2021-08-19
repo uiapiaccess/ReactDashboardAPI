@@ -1,0 +1,86 @@
+{
+    "data" : {
+        "portletWithHtmlTableOneData" : {
+            "id" : 16,
+            "portletTitle" : "Average time spend on meeting",
+            "tableHeader" : [
+                {
+                    "title" : "Company"
+                },
+                {
+                    "title" : "contact"
+                },
+                {
+                    "title" : "about"
+                }
+            ],
+            "tableRow" : [
+                {
+                    "data" : [
+                        {
+                            "content" : "Apple"
+                        },
+                        {
+                            "content" : "Android"
+                        },
+                        {
+                            "content" : "Linux"
+                        }
+                    ]
+                },
+                {
+                    "data" : [
+                        {
+                            "content" : "Reyzon"
+                        },
+                        {
+                            "content" : "Micrsoft"
+                        },
+                        {
+                            "content" : "poco"
+                        }
+                    ]
+                },
+                {
+                    "data" : [
+                        {
+                            "content" : "Vannila"
+                        },
+                        {
+                            "content" : "React"
+                        },
+                        {
+                            "content" : "Angular"
+                        }
+                    ]
+                },
+                {
+                    "data" : [
+                        {
+                            "content" : "Amd"
+                        },
+                        {
+                            "content" : "oppo"
+                        },
+                        {
+                            "content" : "Vivo"
+                        }
+                    ]
+                },
+                {
+                    "data" : [
+                        {
+                            "content" : "Nokia"
+                        },
+                        {
+                            "content" : "Samsung"
+                        },
+                        {
+                            "content" : "Blackberry"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

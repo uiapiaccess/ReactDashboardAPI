@@ -1,0 +1,98 @@
+{
+  "data" : {
+    "portletWithDataGridOneData" : {
+        "id" : "14",
+        "portletTitle" : "Normal Data Grid",
+        "cardContent" : "",
+        "cardChipContent" : "",
+        "chart" : {
+            "chartType" : "",
+            "data": [],
+            "colorPattern" : []
+        },
+        "cardSubHeader" : "",
+        "cardDescription" : "",
+        "cardSubDescription" : "",
+        "cardNumberContent" : "",
+        "cardNumberSubContent" : "",
+        "content" : "",
+        "subContent" : "",
+        "chipNumber" : "",
+        "chipSubContent" : "",
+        "highDivContentOne" : "",
+        "storageUsed" : "",
+        "totalStorage" : "",
+        "mainContentH5" : "",
+        "subContentP" : "",
+        "subContentPcontinuation" : "", 
+        "finalContent" : "",
+        "listData" : [],
+        "columnData" : [
+          { "field": "id", "headerName": "ID", "width": 120 },
+          {
+            "field": "Name",
+            "headerName": "Name",
+            "width": 150,
+            "editable": true
+          },
+          {
+            "field": "startTime",
+            "headerName": "Start Time for appointment",
+            "type": "number",
+            "width": 150,
+            "editable": true
+          },
+          {
+              "field": "endTime",
+              "headerName": "End Time",
+              "type": "number",
+              "width": 150,
+              "editable": true
+          },
+          {
+            "field": "status",
+            "headerName": "Status",
+            "width": 150,
+            "editable": true
+          },
+          {
+              "field": "assignee",
+              "headerName": "Assignee",
+              "width": 150,
+              "editable": true
+          },
+          {
+              "field": "estimatedCost",
+              "headerName": "Estimated Cost ",
+              "width": 150,
+              "editable": true
+          },
+          {
+              "field": "estimatedRevenue",
+              "headerName": "Estimated Revenue",
+              "width": 150,
+              "editable": true
+          },
+          {
+              "field": "releaseDate",
+              "headerName": "Release Date",
+              "width": 150,
+              "editable": true
+          }
+        ],
+        "rowData" : [
+          { "id": 1, "Name": "Project Appolo", "startTime": "01/01/2018", "endTime" : "31/06/2018", "status" : "Done", "assignee" : "Carl Jenkins", "estimatedCost" : "$12,000", "estimatedRevenue" : "$15,000", "releaseDate" : "20/07/2021" },
+          { "id": 2, "Name": "Project Fireball", "startTime": "01/01/2018", "endTime" : "31/06/2018", "status" : "Cancelled", "assignee" : "Bertha Martin", "estimatedCost" : "$12,000", "estimatedRevenue" : "$15,000", "releaseDate" : "20/07/2021"},
+          { "id": 3, "Name": "Project Hades", "startTime": "01/01/2018", "endTime" : "31/06/2018", "status" : "Done", "assignee" : "Stacie Hall", "estimatedCost" : "$12,000", "estimatedRevenue" : "$15,000", "releaseDate" : "20/07/2021"},
+          { "id": 4, "Name": "Project Nitro", "startTime": "01/01/2018", "endTime" : "31/06/2018", "status" : "In Progress", "assignee" : "Carl Jenkins", "estimatedCost" : "$12,000", "estimatedRevenue" : "$15,000", "releaseDate" : "20/07/2021"},
+          { "id": 5, "Name": "Project Phoenix", "startTime": "01/01/2018","endTime" : "31/06/2018", "status" : "Done", "assignee" : "Bertha Martin", "estimatedCost" : "$12,000", "estimatedRevenue" : "$15,000", "releaseDate" : "20/07/2021"},
+          { "id": 6, "Name": "Project Romeo", "startTime": "01/01/2018", "endTime" : "31/06/2018", "status" : "Done", "assignee" : "Ashley Briggs", "estimatedCost" : "$12,000", "estimatedRevenue" : "$15,000", "releaseDate" : "20/07/2021"},
+          { "id": 7, "Name": "Project Wombat", "startTime": "01/01/2018", "endTime" : "31/06/2018", "status" : "In Progress", "assignee" : "Bertha Martin", "estimatedCost" : "$12,000", "estimatedRevenue" : "$15,000", "releaseDate" : "20/07/2021"},
+          { "id": 8, "Name": "Project Zircon", "startTime": "01/01/2018", "endTime" : "31/06/2018", "status" : "Cancelled", "assignee" : "Stacie Hall", "estimatedCost" : "$12,000", "estimatedRevenue" : "$15,000", "releaseDate" : "20/07/2021"},
+          { "id": 9, "Name": "Project Zircon", "startTime": "01/01/2018", "endTime" : "31/06/2018", "status" : "Cancelled", "assignee" : "Stacie Hall", "estimatedCost" : "$12,000", "estimatedRevenue" : "$15,000", "releaseDate" : "20/07/2021"},
+          { "id": 10, "Name": "Project Zircon", "startTime": "01/01/2018", "endTime" : "31/06/2018", "status" : "Cancelled", "assignee" : "Stacie Hall", "estimatedCost" : "$12,000", "estimatedRevenue" : "$15,000", "releaseDate" : "20/07/2021"},
+          { "id": 11, "Name": "Project Zircon", "startTime": "01/01/2018", "endTime" : "31/06/2018", "status" : "Cancelled", "assignee" : "Stacie Hall", "estimatedCost" : "$12,000", "estimatedRevenue" : "$15,000", "releaseDate" : "20/07/2021"}
+        ]
+    }
+  }
+}

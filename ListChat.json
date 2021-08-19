@@ -1,0 +1,63 @@
+{
+    "data" : {
+        "portletWithListChatOneData" : {
+            "id" : "11",
+            "portletTitle" : "Active Users",
+            "cardContent" : "",
+            "cardChipContent" : "",
+            "chart" : {
+                "chartType" : "",
+                "data": [],
+                "colorPattern" : []
+            },
+            "cardSubHeader" : "",
+            "cardDescription" : "",
+            "cardSubDescription" : "",
+            "cardNumberContent" : "",
+            "cardNumberSubContent" : "",
+            "content" : "",
+            "subContent" : "",
+            "chipNumber" : "",
+            "chipSubContent" : "",
+            "highDivContentOne" : "",
+            "storageUsed" : "",
+            "totalStorage" : "",
+            "mainContentH5" : "",
+            "subContentP" : "",
+            "subContentPcontinuation" : "", 
+            "finalContent" : "",
+            "listData" : [{
+                "img" : "img",
+                "name" : "Ronaldinho",
+                "role" : "admin"
+            },
+            {
+                "img" : "img",
+                "name" : "messi",
+                "role" : "Junior"
+            },
+            {
+                "img" : "img",
+                "name" : "antony",
+                "role" : "admin"
+            },
+            {
+                "img" : "img",
+                "name" : "mark",
+                "role" : "co-worker"
+            },
+            {
+                "img" : "img",
+                "name" : "William",
+                "role" : "co-worker"
+            },
+            {
+                "img" : "img",
+                "name" : "loren",
+                "role" : "employee"
+            }],
+            "columnData" : [],
+            "rowData" : []
+        }
+    }
+}

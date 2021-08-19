@@ -1,0 +1,105 @@
+{
+    "data" : {
+        "portletWithLineChartOneData" : {
+            "id" : "5",
+            "portletTitle" : "Average time spend on meeting",
+            "cardContent" : "",
+            "cardChipContent" : "",
+            "chart" : {
+                "chartType" : "spline",
+                "data": [
+                    ["Lenovo", 30, 200, 100, 400]
+                ],
+                "drillDownData": {
+                    "Lenovo" : {
+                        "30" : {
+                            "columnData" : [
+                                { "field": "id", "headerName": "ID", "width": 120 },
+                                {
+                                  "field": "meetingName",
+                                  "headerName": "Meeting name",
+                                  "width": 150,
+                                  "editable": true
+                                },
+                                {
+                                  "field": "startTimeOfMeeting",
+                                  "headerName": "Start time of meeting",
+                                  "type": "number",
+                                  "width": 150,
+                                  "editable": true
+                                },
+                                {
+                                    "field": "endTimeOfMeeting",
+                                    "headerName": "End time of meeting",
+                                    "type": "number",
+                                    "width": 150,
+                                    "editable": true
+                                },
+                                {
+                                  "field": "meetingStatus",
+                                  "headerName": "Meeting status",
+                                  "width": 150,
+                                  "editable": true
+                                },
+                                {
+                                    "field": "meetingHost",
+                                    "headerName": "Meeting host",
+                                    "width": 150,
+                                    "editable": true
+                                },
+                                {
+                                    "field": "hoursOfMeeting",
+                                    "headerName": "Hours of meeting",
+                                    "width": 150,
+                                    "editable": true
+                                },
+                                {
+                                    "field": "numberOfParticipants",
+                                    "headerName": "Number of participants",
+                                    "width": 150,
+                                    "editable": true
+                                },
+                                {
+                                    "field": "notes",
+                                    "headerName": "Notes",
+                                    "width": 150,
+                                    "editable": true
+                                }
+                              ],
+                              "rowData" : [
+                                { "id": 1, "meetingName": "Jikan Daily meeting", "startTimeOfMeeting": "9:00 AM", "endTimeOfMeeting" : "10:00 AM", "meetingStatus" : "Completed", "meetingHost" : "Carl Jenkins", "hoursOfMeeting" : "1 Hour", "numberOfParticipants" : "03", "notes" : "notes" },
+                                { "id": 2, "meetingName": "Agora Daily Meeting", "startTimeOfMeeting": "10:00 AM", "endTimeOfMeeting" : "11:00 AM", "meetingStatus" : "Cancelled", "meetingHost" : "Bertha Martin", "hoursOfMeeting" : "1 Hour", "numberOfParticipants" : "02", "notes" : "notes"},
+                                { "id": 3, "meetingName": "Ncoup Daily Meeting", "startTimeOfMeeting": "08:00 AM", "endTimeOfMeeting" : "09:00 AM", "meetingStatus" : "Completed", "meetingHost" : "Stacie Hall", "hoursOfMeeting" : "1 Hour", "numberOfParticipants" : "06", "notes" : "notes"},
+                                { "id": 4, "meetingName": "Client discussion", "startTimeOfMeeting": "12:00 PM", "endTimeOfMeeting" : "01:00 PM", "meetingStatus" : "Completed", "meetingHost" : "Carl Jenkins", "hoursOfMeeting" : "1 Hour", "numberOfParticipants" : "04", "notes" : "notes"},
+                                { "id": 5, "meetingName": "Server team discussion", "startTimeOfMeeting": "11:00 AM", "endTimeOfMeeting" : "12:00 PM", "meetingStatus" : "Cancelled", "meetingHost" : "Carl Jenkins", "hoursOfMeeting" : "1 Hour", "numberOfParticipants" : "03", "notes" : "notes"},
+                                { "id": 6, "meetingName": "Project Discussion", "startTimeOfMeeting": "02:00 PM", "endTimeOfMeeting" : "03:00 PM", "meetingStatus" : "Cancelled", "meetingHost" : "Carl Jenkins", "hoursOfMeeting" : "1 Hour", "numberOfParticipants" : "02", "notes" : "notes"},
+                                { "id": 7, "meetingName": "Jikan Discussion", "startTimeOfMeeting": "05:00 PM", "endTimeOfMeeting" : "06:00 PM", "meetingStatus" : "Cancelled", "meetingHost" : "Carl Jenkins", "hoursOfMeeting" : "1 Hour", "numberOfParticipants" : "08", "notes" : "notes"},
+                                { "id": 8, "meetingName": "Pheme Discussion", "startTimeOfMeeting": "06:00 PM", "endTimeOfMeeting" : "07:00 PM", "meetingStatus" : "Completed", "meetingHost" : "Carl Jenkins", "hoursOfMeeting" : "1 Hour", "numberOfParticipants" : "10", "notes" : "notes"}
+                              ]
+                        }
+                    }
+                },
+                "colorPattern" : ["blue"]
+            },
+            "cardSubHeader" : "",
+            "cardDescription" : "",
+            "cardSubDescription" : "",
+            "cardNumberContent" : "",
+            "cardNumberSubContent" : "",
+            "content" : "",
+            "subContent" : "",
+            "chipNumber" : "",
+            "chipSubContent" : "",
+            "highDivContentOne" : "",
+            "storageUsed" : "",
+            "totalStorage" : "",
+            "mainContentH5" : "",
+            "subContentP" : "",
+            "subContentPcontinuation" : "", 
+            "finalContent" : "",
+            "listData" : [],
+            "columnData" : [],
+            "rowData" : []
+        }
+    }
+}
