@@ -12,7 +12,7 @@
                     ["nCoup", 10]
                 ],
                 "drillDownData": {
-                    "data1" : {
+                    "Agora" : {
                         "20" : {
                             "columnData" : [
                                 { "field": "id", "headerName": "ID", "width": 120 },
