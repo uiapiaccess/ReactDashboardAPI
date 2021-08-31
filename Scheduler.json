@@ -1,0 +1,236 @@
+{
+    "data" : {
+        "portletWithSchedulerData" : {
+            "id" : "35",
+            "portletTitle" : "Product calendar",
+            "cardContent" : "",
+            "cardChipContent" : "",
+            "chart" : {
+                "chartType" : "",
+                "data": [],
+                "colorPattern" : []
+            },
+            "cardSubHeader" : "",
+            "cardDescription" : "",
+            "cardSubDescription" : "",
+            "cardNumberContent" : "",
+            "cardNumberSubContent" : "",
+            "content" : "",
+            "subContent" : "",
+            "chipNumber" : "",
+            "chipSubContent" : "",
+            "highDivContentOne" : "",
+            "storageUsed" : "",
+            "totalStorage" : "",
+            "mainContentH5" : "",
+            "subContentP" : "",
+            "subContentPcontinuation" : "", 
+            "finalContent" : "",
+            "listData" : [],
+            "columnData" : [],
+            "rowData" : [],
+            "events" : [
+                {
+                    "id" : 1,
+                    "title" : "Jikan Daily Meeting",
+                    "start" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 24,
+                        "hour" : 18,
+                        "minutes" : 0,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "end" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 24,
+                        "hour" : 19,
+                        "minutes" : 0,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "resource" : {
+                        "organiserName" : "M Shiva Kumar"
+                    }
+                },
+                {
+                    "id" : 2,
+                    "title" : "Project status meeting",
+                    "start" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 24,
+                        "hour" : 6,
+                        "minutes" : 0,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "end" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 24,
+                        "hour" : 6,
+                        "minutes" : 0,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "resource" : {
+                        "organiserName" : "M Ajith Kumar"
+                    }
+                },
+                {
+                    "id" : 3,
+                    "title" : "React hands on training",
+                    "start" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 24,
+                        "hour" : 5,
+                        "minutes" : 0,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "end" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 24,
+                        "hour" : 13,
+                        "minutes" : 0,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "resource" : {
+                        "organiserName" : "T Lavanya"
+                    }
+                },
+                {
+                    "id" : 4,
+                    "title" : "RMD meeting",
+                    "start" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 24,
+                        "hour" : 3,
+                        "minutes" : 0,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "end" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 24,
+                        "hour" : 4,
+                        "minutes" : 0,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "resource" : {
+                        "organiserName" : "Unknown"
+                    }
+                },
+                {
+                    "id" : 5,
+                    "title" : "Product meeting",
+                    "start" : {
+                        "year" : 2021,
+                        "month" : 8,
+                        "date" : 1,
+                        "hour" : 2,
+                        "minutes" : 30,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "end" : {
+                        "year" : 2021,
+                        "month" : 8,
+                        "date" : 1,
+                        "hour" : 6,
+                        "minutes" : 30,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "resource" : {
+                        "organiserName" : "John albert"
+                    }
+                },
+                {
+                    "id" : 6,
+                    "title" : "Daily status update",
+                    "start" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 1,
+                        "hour" : 2,
+                        "minutes" : 30,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "end" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 1,
+                        "hour" : 5,
+                        "minutes" : 30,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "resource" : {
+                        "organiserName" : "Jonny mcman"
+                    }
+                },
+                {
+                    "id" : 7,
+                    "title" : "Product meeting",
+                    "start" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 3,
+                        "hour" : 12,
+                        "minutes" : 0,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "end" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 3,
+                        "hour" : 13,
+                        "minutes" : 30,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "resource" : {
+                        "organiserName" : "Micky"
+                    }
+                },
+                {
+                    "id" : 8,
+                    "title" : "Junior Training",
+                    "start" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 5,
+                        "hour" : 2,
+                        "minutes" : 30,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "end" : {
+                        "year" : 2021,
+                        "month" : 7,
+                        "date" : 5,
+                        "hour" : 10,
+                        "minutes" : 30,
+                        "seconds" : 0,
+                        "milliseconds" : 0
+                    },
+                    "resource" : {
+                        "organiserName" : "Polly"
+                    }
+                }
+            ]
+        }
+    }
+}
