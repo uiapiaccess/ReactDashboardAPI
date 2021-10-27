@@ -2,8 +2,8 @@
     "data" : {
         "chipWithColumnChartOneData" : {
             "id" : "1",
-            "portletTitle" : "Agora Meeting count",
-            "cardContent" : "200",
+            "portletTitle" : "Total Appointments",
+            "cardContent" : "250",
             "cardChipContent" : "+3.5% usage",
             "chart" : {
                 "chartType" : "bar",
