@@ -9,7 +9,7 @@
                 "chartType" : "bar",
                 "data": [
                     ["x", "2021-08-23", "2021-08-24", "2021-08-25", "2021-08-26", "2021-08-27", "2021-08-28"],
-                    ["Agora meetings", 30, 200, 100, 400, 150]
+                    ["Jikan Appointments", 30, 200, 100, 400, 150]
                 ],
                 "colorPattern" : ["blue"]
             },
@@ -35,14 +35,14 @@
         },
         "chipWithColumnChartTwoData" : {
             "id" : "2",
-            "portletTitle" : "nCoup Meeting count",
+            "portletTitle" : "Monthly Appointments",
             "cardContent" : "500",
             "cardChipContent" : "+13.6% usage",
             "chart" : {
                 "chartType" : "spline",
                 "data": [
                     ["x", "2021-08-23", "2021-08-24", "2021-08-25", "2021-08-26", "2021-08-27", "2021-08-28"],
-                    ["nCoup meetings", 30, 200, 100, 400, 150, 250, 400, 110]
+                    ["Monthly Report", 30, 200, 100, 400, 150, 250, 400, 110]
                 ],
                 "colorPattern" : ["blue"]
             },
@@ -214,30 +214,7 @@
         },
         "chipWithColorOneData" : {
             "id" : "20",
-            "portletTitle" : "Upcoming meetings",
-            "cardContent" : "",
-            "cardChipContent" : "",
-            "chart" : {
-                "chartType" : "",
-                "data": [],
-                "colorPattern" : []
-            },
-            "cardSubHeader" : "",
-            "cardDescription" : "",
-            "cardSubDescription" : "",
-            "cardNumberContent" : "",
-            "cardNumberSubContent" : "",
-            "content" : "",
-            "subContent" : "",
-            "chipNumber" : "06",
-            "chipSubContent" : "This week",
-            "listData" : [],
-            "columnData" : [],
-            "rowData" : []
-        },
-        "chipWithColorTwoData" : {
-            "id" : "21",
-            "portletTitle" : "Follow up Meeting",
+            "portletTitle" : "Booked Appointment",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
@@ -253,6 +230,29 @@
             "content" : "",
             "subContent" : "",
             "chipNumber" : "10",
+            "chipSubContent" : "Today",
+            "listData" : [],
+            "columnData" : [],
+            "rowData" : []
+        },
+        "chipWithColorTwoData" : {
+            "id" : "21",
+            "portletTitle" : "Total Appointments",
+            "cardContent" : "",
+            "cardChipContent" : "",
+            "chart" : {
+                "chartType" : "",
+                "data": [],
+                "colorPattern" : []
+            },
+            "cardSubHeader" : "",
+            "cardDescription" : "",
+            "cardSubDescription" : "",
+            "cardNumberContent" : "",
+            "cardNumberSubContent" : "",
+            "content" : "",
+            "subContent" : "",
+            "chipNumber" : "40",
             "chipSubContent" : "This week",
             "highDivContentOne" : "",
             "storageUsed" : "",
@@ -267,7 +267,7 @@
         },
         "chipWithColorThreeData" : {
             "id" : "22",
-            "portletTitle" : "Pending Task",
+            "portletTitle" : "Pending Appointments",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
@@ -282,7 +282,7 @@
             "cardNumberSubContent" : "",
             "content" : "",
             "subContent" : "",
-            "chipNumber" : "20",
+            "chipNumber" : "05",
             "chipSubContent" : "This week",
             "highDivContentOne" : "",
             "storageUsed" : "",
@@ -297,7 +297,7 @@
         },
         "chipWithColorFourData" : {
             "id" : "28",
-            "portletTitle" : "Completed Task",
+            "portletTitle" : "Cancelled Appointment",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
@@ -312,7 +312,7 @@
             "cardNumberSubContent" : "",
             "content" : "",
             "subContent" : "",
-            "chipNumber" : "30",
+            "chipNumber" : "05",
             "chipSubContent" : "This week",
             "highDivContentOne" : "",
             "storageUsed" : "",
