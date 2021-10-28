@@ -13,7 +13,7 @@
                     ["Cancelled Appointments", 0, 01, , 02, 05, 08 ,01, 05]
                 ],
                 "drillDownData": {
-                    "Pheme" : {
+                    "Booked Appointments" : {
                         "30" : {
                             "columnData" : [
                                 { "field": "id", "headerName": "ID", "width": 120 },
