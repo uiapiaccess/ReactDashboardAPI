@@ -214,7 +214,7 @@
         },
         "chipWithColorOneData" : {
             "id" : "20",
-            "portletTitle" : "Booked Appointment",
+            "portletTitle" : "Today Appointments",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
@@ -297,7 +297,7 @@
         },
         "chipWithColorFourData" : {
             "id" : "28",
-            "portletTitle" : "Cancelled Appointment",
+            "portletTitle" : "Cancelled Appointments",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
