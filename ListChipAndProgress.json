@@ -35,18 +35,18 @@
             {
                
                "projectName" : "Canelled Appointment",
-                "projectPercentage" : "90%",
-                "projectPercentageNumber" : 90
+                "projectPercentage" : "20%",
+                "projectPercentageNumber" : 30
             },
             {
                  "projectName" : "Overbooking Appointment",
-                "projectPercentage" : "90%",
-                "projectPercentageNumber" : 90
+                "projectPercentage" : "50%",
+                "projectPercentageNumber" : 40
             },
             {
                 "projectName" : "Reschedule  Appointment",
-                "projectPercentage" : "90%",
-                "projectPercentageNumber" : 90
+                "projectPercentage" : "30%",
+                "projectPercentageNumber" : 40
             }],
             "columnData" : [],
             "rowData" : []
