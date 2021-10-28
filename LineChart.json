@@ -2,15 +2,15 @@
     "data" : {
         "portletWithLineChartOneData" : {
             "id" : "5",
-            "portletTitle" : "Product sales",
+            "portletTitle" : "Weekly Reports",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
                 "chartType" : "spline",
                 "data": [
-                    ["x", "2021-08-23", "2021-08-24", "2021-08-25", "2021-08-26", "2021-08-27", "2021-08-28"],
-                    ["Pheme", 30, 200, 100, 150, 250, 400],
-                    ["Jikan", 10, 400, 200, 250, 150, 500]
+                    ["x", "2021-10-23", "2021-10-24", "2021-10-25", "2021-10-26", "2021-10-27", "2021-10-28"],
+                    ["Booked Appointments", 0, 10, , 20, 30, 50, 60,70,80,90,100],
+                    ["Cancelled Appointments", 0, 01, , 02, 05, 08 ,01, 05]
                 ],
                 "drillDownData": {
                     "Pheme" : {
