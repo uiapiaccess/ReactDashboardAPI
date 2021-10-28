@@ -2,14 +2,14 @@
     "data" : {
         "chipWithColumnChartOneData" : {
             "id" : "1",
-            "portletTitle" : "Total Appointments",
+            "portletTitle" : "Total Appointments - Weekly",
             "cardContent" : "250",
             "cardChipContent" : "+3.5% usage",
             "chart" : {
                 "chartType" : "bar",
                 "data": [
                     ["x", "2021-08-23", "2021-08-24", "2021-08-25", "2021-08-26", "2021-08-27", "2021-08-28"],
-                    ["Jikan Appointments", 30, 200, 100, 400, 150]
+                    ["Appointments", 30, 200, 100, 400, 150]
                 ],
                 "colorPattern" : ["blue"]
             },
@@ -35,13 +35,13 @@
         },
         "chipWithColumnChartTwoData" : {
             "id" : "2",
-            "portletTitle" : "Monthly Appointments",
+            "portletTitle" : "Total Appointments - Monthly",
             "cardContent" : "500",
             "cardChipContent" : "+13.6% usage",
             "chart" : {
                 "chartType" : "spline",
                 "data": [
-                    ["x", "2021-08-23", "2021-08-24", "2021-08-25", "2021-08-26", "2021-08-27", "2021-08-28"],
+                    ["x", "2021-05-23", "2021-06-24", "2021-07-25", "2021-08-26", "2021-09-27", "2021-10-28"],
                     ["Monthly Report", 30, 200, 100, 400, 150, 250, 400, 110]
                 ],
                 "colorPattern" : ["blue"]
