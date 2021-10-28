@@ -2,7 +2,7 @@
     "data" : {
         "portletWithListChipAndProgressOneData" : {   
             "id" : "6",
-            "portletTitle" : "Running Projects",
+            "portletTitle" : "Monthly Report",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
@@ -27,60 +27,26 @@
             "subContentPcontinuation" : "", 
             "finalContent" : "",
             "listData" : [                {
-                "logoName" : "F",
-                "projectName" : "Falcon",
-                "projectPercentage" : "28%",
-                "projectPercentageNumber" : 28,
-                "projectTiming" : "12:50:00"
+                
+                "projectName" : "Booked Appointment",
+                "projectPercentage" : "90%",
+                "projectPercentageNumber" : 90
             },
             {
-                "logoName" : "S",
-                "projectName" : "Scuba",
-                "projectPercentage" : "48%",
-                "projectPercentageNumber" : 48,
-                "projectTiming" : "12:50:00"
+               
+               "projectName" : "Canelled Appointment",
+                "projectPercentage" : "90%",
+                "projectPercentageNumber" : 90
             },
             {
-                "logoName" : "N",
-                "projectName" : "Nike",
-                "projectPercentage" : "58%",
-                "projectPercentageNumber" : 58,
-                "projectTiming" : "12:50:00"
+                 "projectName" : "Overbooking Appointment",
+                "projectPercentage" : "90%",
+                "projectPercentageNumber" : 90
             },
             {
-                "logoName" : "A",
-                "projectName" : "Addidas",
-                "projectPercentage" : "68%",
-                "projectPercentageNumber" : 68,
-                "projectTiming" : "12:50:00"
-            },
-            {
-                "logoName" : "A",
-                "projectName" : "Addidas",
-                "projectPercentage" : "68%",
-                "projectPercentageNumber" : 68,
-                "projectTiming" : "12:50:00"
-            },
-            {
-                "logoName" : "A",
-                "projectName" : "Addidas",
-                "projectPercentage" : "68%",
-                "projectPercentageNumber" : 68,
-                "projectTiming" : "12:50:00"
-            },
-            {
-                "logoName" : "A",
-                "projectName" : "Addidas",
-                "projectPercentage" : "68%",
-                "projectPercentageNumber" : 68,
-                "projectTiming" : "12:50:00"
-            },
-            {
-                "logoName" : "A",
-                "projectName" : "Addidas",
-                "projectPercentage" : "68%",
-                "projectPercentageNumber" : 68,
-                "projectTiming" : "12:50:00"
+                "projectName" : "Reschedule  Appointment",
+                "projectPercentage" : "90%",
+                "projectPercentageNumber" : 90
             }],
             "columnData" : [],
             "rowData" : []
