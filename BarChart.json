@@ -2,15 +2,17 @@
     "data" : {
         "portletWithBarChartOneData" : {
             "id" : "13",
-            "portletTitle" : "Product sales",
+            "portletTitle" : "Number of Transactions",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
                 "chartType" : "bar",
                 "data": [
-                    ["x", "2021-08-23", "2021-08-24", "2021-08-25", "2021-08-26", "2021-08-27", "2021-08-28"],
-                    ["Jikan", 10, 30, 50, 60, 100],
-                    ["Agora", 20, 40, 10, 60, 90]
+                    ["Pharmacist", "", "", "", "", "", ""],
+                    ["Karen ", 10],
+                    ["Simon", , 40, ],
+                    ["Cynthia", 10, 30, 50, ],
+                    ["Everest", 20, 40, 10, 60, 90]
                 ],
                 "drillDownData": {
                     "Jikan" : {
