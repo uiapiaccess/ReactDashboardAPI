@@ -214,7 +214,7 @@
         },
         "chipWithColorOneData" : {
             "id" : "20",
-            "portletTitle" : "Today Appointments",
+            "portletTitle" : "Total number of Dispenses this month",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
@@ -229,7 +229,7 @@
             "cardNumberSubContent" : "",
             "content" : "",
             "subContent" : "",
-            "chipNumber" : "10",
+            "chipNumber" : "137",
             "chipSubContent" : "Today",
             "listData" : [],
             "columnData" : [],
@@ -237,7 +237,7 @@
         },
         "chipWithColorTwoData" : {
             "id" : "21",
-            "portletTitle" : "Total Appointments",
+            "portletTitle" : "New Protocols added this month",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
@@ -252,7 +252,7 @@
             "cardNumberSubContent" : "",
             "content" : "",
             "subContent" : "",
-            "chipNumber" : "40",
+            "chipNumber" : "09",
             "chipSubContent" : "This week",
             "highDivContentOne" : "",
             "storageUsed" : "",
@@ -267,7 +267,7 @@
         },
         "chipWithColorThreeData" : {
             "id" : "22",
-            "portletTitle" : "Pending Appointments",
+            "portletTitle" : "Active Users",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
@@ -282,7 +282,7 @@
             "cardNumberSubContent" : "",
             "content" : "",
             "subContent" : "",
-            "chipNumber" : "05",
+            "chipNumber" : "15",
             "chipSubContent" : "This week",
             "highDivContentOne" : "",
             "storageUsed" : "",
