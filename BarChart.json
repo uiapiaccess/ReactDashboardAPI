@@ -1,8 +1,9 @@
+
 {
     "data" : {
         "portletWithBarChartOneData" : {
             "id" : "13",
-            "portletTitle" : "Number of Transactions",
+            "portletTitle" : "Product sales",
             "cardContent" : "",
             "cardChipContent" : "",
             "chart" : {
